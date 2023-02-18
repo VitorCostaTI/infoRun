@@ -2111,9 +2111,8 @@ h3{
 @media screen and (min-width: 750px) {
 
   .image-about img{
-    margin-top: 45%;
-    margin-left: 15%;
-    vertical-align: middle;
+    margin: 40px;
+    border-radius: 20px;
   }
 }
 
