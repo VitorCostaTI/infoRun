@@ -1077,6 +1077,11 @@ About
 --------------------------------------------- 
 */
 
+.about_page{
+  margin-top: 150px;
+}
+
+
 .layout_padding {
   background-color: #f7f7f7;
   margin-top: 50px;
