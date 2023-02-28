@@ -80,7 +80,7 @@ header, nav, section, article, aside, footer, hgroup {
 html, body {
   font-family: 'Poppins', sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color: whitesmoke;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -132,7 +132,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: whitesmoke;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -893,7 +893,7 @@ Banner Style
   background-size: cover;
   position: absolute;
   right: 0;
-  top: 100px;
+  top: 150px;
   width: 819px;
   height: 674px;
 }
@@ -1083,7 +1083,7 @@ About
 
 
 .layout_padding {
-  background-color: #f7f7f7;
+  background-color: white;
   margin-top: 50px;
 }
 
@@ -1132,7 +1132,7 @@ About
 .about-us .fact-item p {
   margin-top: 20px;
   padding-top: 15px;
-  border-top: 1px solid #eee;
+  border-top: 1px solid white;
 }
 
 
